@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "28FB70D7-A13F-4F6E-8EE8-D28C56FAEC38"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A182A51D-9D75-4AA8-8B00-B62CF10E9549"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE71309F-F16C-4BDF-B875-3610955BD22B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E96827B-D5FB-45F5-BE4E-9257D328969B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C841AA66-27B4-4E31-9F86-8F00C8CB72C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getCount()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EFCD9AF-85C5-4D13-BCF1-F21FD4FC808C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E7256E8-3E07-4FA6-BB35-60C29ACB5471"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "SchoolViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9E7256E8-3E07-4FA6-BB35-60C29ACB5471 - a295022009eb1b23"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0220803_JaavionDavis_NYCSchools.SchoolViewModel.deinit"
+                  moduleName = "20220803-JaavionDavis-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaaviondavis/Downloads/RxSwiftCode/20220803-JaavionDavis-NYCSchools/20220803-JaavionDavis-NYCSchools/ViewModel/SchoolViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9E7256E8-3E07-4FA6-BB35-60C29ACB5471 - e3c80cf96f0d2cd9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0220803_JaavionDavis_NYCSchools.SchoolViewModel.__deallocating_deinit"
+                  moduleName = "20220803-JaavionDavis-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaaviondavis/Downloads/RxSwiftCode/20220803-JaavionDavis-NYCSchools/20220803-JaavionDavis-NYCSchools/ViewModel/SchoolViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "9E7256E8-3E07-4FA6-BB35-60C29ACB5471 - d3a383bf6073536b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0220803_JaavionDavis_NYCSchools.SchoolViewModel.__allocating_init() -&gt; _0220803_JaavionDavis_NYCSchools.SchoolViewModel"
+                  moduleName = "20220803-JaavionDavis-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaaviondavis/Downloads/RxSwiftCode/20220803-JaavionDavis-NYCSchools/20220803-JaavionDavis-NYCSchools/ViewModel/SchoolViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "9E7256E8-3E07-4FA6-BB35-60C29ACB5471 - 4333e7d4d7c114d6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0220803_JaavionDavis_NYCSchools.SchoolViewModel.init() -&gt; _0220803_JaavionDavis_NYCSchools.SchoolViewModel"
+                  moduleName = "20220803-JaavionDavis-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaaviondavis/Downloads/RxSwiftCode/20220803-JaavionDavis-NYCSchools/20220803-JaavionDavis-NYCSchools/ViewModel/SchoolViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EFC8577-19C1-45E9-9F92-26D33F44FFF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "848A6979-627D-4920-BFE6-B6090D4F2667"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCDA0644-850A-481B-A76F-EF69EF497F67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20220803-JaavionDavis-NYCSchools/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
